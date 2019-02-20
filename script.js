@@ -1,4 +1,4 @@
-// API KEY = yOEsL4XsJC1T3awMVcC8cx8B4v5wacvv
+
 
 let topics = ["dog", "cat", "otter", "chicken", "donkey", "squirrel", "bear", "monkey", "elephant", "mouse", "rabbit", "hedgehog", "camel", "lion", "kangaroo"];
 // iterates over the topics array and appends buttons to the DOM
