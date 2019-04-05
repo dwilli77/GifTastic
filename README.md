@@ -11,3 +11,5 @@ Click a button at the top of the screen to see Gifs for that category.
 Use the table to add a button to the list.
 
 Click a Gif to start playing, click again to pause.
+
+![screenshot](./screenshot.PNG "GifTastic")
